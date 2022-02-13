@@ -1,8 +1,14 @@
 body{
     background-image: url(img/4k.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
+#container{
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 200px;
+}
 *{
     box-sizing: border-box;
     margin: 0;
